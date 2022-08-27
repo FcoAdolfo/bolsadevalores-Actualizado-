@@ -3,7 +3,7 @@
 
 
  Rosa Elena Peña (21-0415) 
- Francisco Adolfo (20-0866)
+ Francisco Adolfo Peña (20-0866)
  
  ________________________________________________________________________________________________________________
  
@@ -218,13 +218,5 @@ _______Fin______
 
 
 
-use db_bolsadevalores;
-show tables;
-select * from yahoo_finance  limit 50;  
 
-(En MySQL con este codigo usando la base de datos hago un select * from a la tabla con un limite de 50 registros o la cantidad que desee)
-
-
-Archivo .csv
-[GOOGL.csv](https://github.com/FcoAdolfo/bolsadevalores-Actualizado-/files/9395571/GOOGL.csv)
 
